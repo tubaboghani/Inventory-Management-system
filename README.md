@@ -9,10 +9,13 @@ you'll learn JSON, NoSQL, File handling.
 
 ----------------------------------------------------------------------------------------
 
-### Feartures
+### Features
 1.Add new items into inventory.
+
 2.user can make purchase.
+
 3.generate billing amount.
+
 4.daily transaction record.
 
 ---------------------------------------------------------------------------------------
