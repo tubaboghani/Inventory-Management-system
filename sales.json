@@ -1,0 +1,10 @@
+{"1": {"prod": "1002", "qn": 5, "amount": 4000, "name": "Milk Cake", "time": "Sun Sep  5 16:07:04 2021"}, 
+"2": {"prod": "1004", "qn": 1, "amount": 5, "name": "Candy", "time": "Sun Sep  5 16:07:18 2021"}, 
+"3": {"prod": "1035", "qn": 7, "amount": 2800, "name": "jacket", "time": "Sun Sep  5 16:07:31 2021"},
+ "4": {"prod": "1019", "qn": 5, "amount": 1500, "name": "washing powder", "time": "Sun Sep  5 16:07:42 2021"},
+ "5": {"prod": "1007", "qn": 4, "amount": 6000, "name": "Mic", "time": "Sun Sep  5 16:08:01 2021"}, 
+"6": {"prod": "1024", "qn": 3, "amount": 450, "name": "textbook", "time": "Sun Sep  5 16:08:20 2021"}, 
+"7": {"prod": "1028", "qn": 1, "amount": 99, "name": "cream", "time": "Sun Sep  5 16:08:36 2021"}, 
+"8": {"prod": "1034", "qn": 5, "amount": 445, "name": "eyeliner", "time": "Sun Sep  5 16:08:50 2021"},
+ "9": {"prod": "1023", "qn": 2, "amount": 10, "name": "sharpener", "time": "Sun Sep  5 16:09:07 2021"},
+ "10": {"prod": "1010", "qn": 1, "amount": 200, "name": "headphones", "time": "Sun Sep  5 16:09:26 2021"}}
